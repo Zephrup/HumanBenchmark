@@ -49,8 +49,8 @@ def main():
             time.sleep(0.05)
             count += 1
 
-        if count == 40:
-            print('40 clicks, stopping...')
+        if count == 31:
+            print('31 clicks, stopping...')
             break
 
 
