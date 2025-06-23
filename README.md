@@ -8,5 +8,10 @@ This project contains bots designed to automate various games on the [Human Benc
 - Clicks 30 targets as quickly as possible
 - Clicks on targets using screen coordinate detection
 
+### 1. **Visual Memory Bot V1**
+- Automatically determines if you have already seen the word
+- Uses Tesseract OCR to determine the word
+- Clicks on the corresponding button if its a new or already seen word
+
 ### 2. **[More to come]**
 *(e.g. Reaction Time, Visual Memory — coming soon)*
