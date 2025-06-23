@@ -14,4 +14,4 @@ This project contains bots designed to automate various games on the [Human Benc
 - Clicks on the corresponding button if its a new or already seen word
 
 ### 2. **[More to come]**
-*(e.g. Reaction Time, Visual Memory — coming soon)*
+*(e.g. Reaction Time, Number Memory — coming soon)*
