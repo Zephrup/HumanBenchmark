@@ -13,5 +13,5 @@ This project contains bots designed to automate various games on the [Human Benc
 - Uses Tesseract OCR to determine the word
 - Clicks on the corresponding button if its a new or already seen word
 
-### 2. **[More to come]**
+### 3. **[More to come]**
 *(e.g. Reaction Time, Number Memory — coming soon)*
